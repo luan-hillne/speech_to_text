@@ -1,0 +1,1 @@
+!pip install datasets==2.14.4 transformers==4.32.1 huggingface_hub==0.16.4 jiwer==3.0.2 librosa==0.10.1 soundfile==0.12.1
